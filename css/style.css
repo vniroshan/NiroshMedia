@@ -630,7 +630,8 @@ ul,li{
 	background-color:#ffffff; 
 	background-position:center center; 
 	background-repeat:no-repeat; 
-	background-image:url(../images/icons/preloader.svg);
+	background-image:url(../images/icons/preloader.gif);
+	background-size: 10%;
 }
 
 img{
@@ -681,6 +682,15 @@ img{
 	background:#dfb162;
 }
 
+.marquee{
+	background-color: rgb(37, 39, 39);
+	
+}
+
+.marquee marquee{
+	color:white;
+	
+}
 /*** 
 
 ====================================================================
@@ -5310,7 +5320,7 @@ img{
 	top:0px;
 	left:30px;
 	bottom:30px;
-	background-color:#dfb162;
+	background-color:#3a3732;
 }
 
 /*** 
