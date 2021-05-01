@@ -4603,8 +4603,9 @@ img{
 }
 
 .team-section .team-block{
-	float:left;
+	width: 50%;
 	padding:0px;
+	margin: auto;
 }
 
 /* Team Block */
@@ -5008,7 +5009,7 @@ img{
 
 .contact-form-section .info-column .contact-info-list li strong{
 	position:relative;
-	color:#242424;
+	color:#000000;
 	font-size:20px;
 	font-family: 'Rufina', serif;
 }
@@ -5300,20 +5301,20 @@ img{
 	padding-left:50px;
 }
 
-.story-section .image-column .image{
+.story-section .image-column .facebook{
 	position:relative;
 	margin-bottom:40px;
 	padding-right:30px;
 	padding-top:30px;
 }
 
-.story-section .image-column .image img{
+.story-section .image-column .facebook iframe{
 	position:relative;
 	width:100%;
 	display:block;
 }
 
-.story-section .image-column .image:before{
+.story-section .image-column .facebook:before{
 	position:absolute;
 	content:'';
 	right:0px;
