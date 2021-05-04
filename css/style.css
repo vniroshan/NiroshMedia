@@ -96,22 +96,8 @@ font-family: 'Rufina', serif;
 
  ***/
 
- .preloader p{
-	height: 10em;
-    position: relative
-	
-  }
+ 
 
-.preloader img{
-	margin: 0;
-  
-    position: absolute;
-    top: 195%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-
-  }
 
   
 body {
